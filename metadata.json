@@ -1,0 +1,6 @@
+{
+  "name": "Elvora",
+  "description": "Next-gen social platform featuring midnight & electric violet aesthetics, reels, 24-hour moments, feeds, and private chats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
